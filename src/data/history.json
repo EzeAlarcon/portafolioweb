@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Developer Full Stack",
+    "organisation": "Nevtis Corp",
+    "startDate": "May, 2023",
+    "endDate": "Dic, 2023",
+    "experiences": ["Development of APIs and optimization of VoIP processes", "Security implementation in microservices architectures optimizing processes by 70%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Developer Full Stack",
+    "organisation": "CNN en español",
+    "startDate": "Sep, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": ["optimization of IPTV processes with Netcore technologies", "Interface design for the Mobile App and the web app"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Big Data developer and consultant",
+    "organisation": "Group Konecta",
+    "startDate": "Apr, 2022",
+    "endDate": "Ago, 2022",
+    "experiences": [
+      "Automation and development of automated tasks for BPO campaigns",
+      "Analysis and extraction of massive data, personnel automation under Kpi performance, TMO and optimization of telesales and customer service campaigns, among others, configuration of VoIP and IVR processes."
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

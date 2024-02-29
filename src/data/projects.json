@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Flutter AppSocial",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Flutter", "Dart"],
+    
+    "source": "https://github.com/EzeAlarcon/fraveapp-flutter"
+  },
+  {
+    "title": "Backend AppSocial",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "Express", "Socket io", "Mtsql"],
+    
+    "source": "https://github.com/EzeAlarcon/backend-fraveapp"
+  },
+  {
+    "title": "See more of my Repositories",
+    "imageSrc": "projects/repos.png",
+    "description": "Feel free to see my 55 open source repositories IT IS PROHIBITED TO DOWNLOAD THE REPOS FOR YOUR OWN USE THAT BENEFITS ECONOMICALLY.",
+    "skills": ["React", "Express", "Node", "php", "+"],
+    
+    "source": "https://github.com/EzeAlarcon?tab=repositories"
+  }
+]
